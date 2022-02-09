@@ -22,7 +22,9 @@ The program consists of 9 online courses that will provide you with the latest j
 8. Data Visualization with Python
 9. Machine Learning with Python
 10. Applied Data Science Capstone
-
+___
+ ### [My Applied Data Science Capstone Project](https://github.com/rodrigoalvamat/ibm-data-science-capstone)
+___
 ## My Certification
 
 - **Name:** IBM Data Science Specialization
